@@ -1,4 +1,4 @@
-# Requisitos
+# Exercicio Jest
 ## Instalar as dependências
 `npm install` ou `yarn install`
 
