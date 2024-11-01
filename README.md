@@ -1,4 +1,4 @@
-# Exercicio Jest
+# Jest - React-Testing-Library
 ## Instalar as dependências
 `npm install` ou `yarn install`
 
